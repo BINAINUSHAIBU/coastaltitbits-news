@@ -1,2 +1,0 @@
-# coastaltitbits-news
-News blogs 
